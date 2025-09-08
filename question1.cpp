@@ -3,7 +3,6 @@
 #include <cstring>
 
 using namespace std;
-
 // TODO: Write the Book struct here
 // struct Book { ... };
 
